@@ -1,0 +1,14 @@
+{
+  "name": "tsc-xrm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "devDependencies": {
+    "@types/xrm": "^9.0.63"
+  }
+}
